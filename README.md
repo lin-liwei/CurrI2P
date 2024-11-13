@@ -6,11 +6,17 @@ The KITTI datasets: [https://www.cvlibs.net/datasets/kitti/eval_odometry.php](ht
 
 The nuScenes datsets: [https://www.nuscenes.org/nuscenes\#download](https://www.nuscenes.org/nuscenes\#download)
 
-## Testing
+## Installation
+
+```
+git clone https://github.com/lin-liwei/CurrI2P.git
+```
+
+## Inference
 
 ```python
 cd CurrI2P
-python test.py
+python main.py
 ```
 
 ## Acknowledgements
