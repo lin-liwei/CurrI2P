@@ -18,7 +18,7 @@ The inference code was tested on:
 ```
 conda create -n CurrI2P python=3.7
 conda activate CurrI2P
-pip install torch==1.7.1+cu92 torchvision==0.8.2+cu92 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+pip install -r requirements.txt
 ```
 
 #### step 2. Prepare CurrI2P repo by.
@@ -30,7 +30,7 @@ cd CurrI2P
 
 #### step 3. Download data. 
 
-We provide the inference data from the KITTI dataset (sequences 9-10) to help you quickly get started with evaluating CurrI2P (VP2P). The data tree should be arranged as:
+We provide the inference data from the KITTI dataset (sequences 9-10) in [here](https://drive.google.com/file/d/1xWy-f9N7P8BtIYcZ7E6fwgiYx8jhsch1/view?usp=drive_link) to help you quickly get started with evaluating CurrI2P (VP2P). The data tree should be arranged as:
 
 ```
 KITTI/
