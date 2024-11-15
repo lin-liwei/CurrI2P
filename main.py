@@ -2,7 +2,7 @@ import os
 import torch
 import argparse
 from models.network import CurrI2P
-from models.kitti_dataset import kitti_pc_img_dataset
+from models.kitti import kitti_pc_img_dataset
 import numpy as np
 import math
 import utils.options as options
