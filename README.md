@@ -4,7 +4,14 @@
 
 ### Installation and Data Preparation
 
-#### step 1. Please prepare environment
+#### step 1. Prepare CurrI2P repo by.
+
+```
+git clone https://github.com/lin-liwei/CurrI2P.git
+cd CurrI2P
+```
+
+#### step 2. Please prepare environment.
 
 We implement our method on two baselines, and their environments are the same as their baselines. Therefore, you can refer to:
 
@@ -19,13 +26,6 @@ The inference code was tested on:
 conda create -n CurrI2P python=3.7
 conda activate CurrI2P
 pip install -r requirements.txt
-```
-
-#### step 2. Prepare CurrI2P repo by.
-
-```
-git clone https://github.com/lin-liwei/CurrI2P.git
-cd CurrI2P
 ```
 
 #### step 3. Download data. 
