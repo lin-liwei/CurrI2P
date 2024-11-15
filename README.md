@@ -51,7 +51,7 @@ KITTI/
 
 ## Inference
 
-- **Checkpoints.** We provide the pre-trained checkpoint of CurrI2P(VP2P) in here.
+- **Checkpoints.** We provide the pre-trained checkpoint of CurrI2P(VP2P) in [here](https://drive.google.com/file/d/1o-aw-iosdP8Cp01-PZuP--1VT_O3By_N/view?usp=drive_link).
 - **Scripts.** After prepraring the code and checkpoints, you can simply evaluate CurrI2P(VP2P) by runing:
 
 ```python
