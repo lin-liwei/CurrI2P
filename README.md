@@ -28,7 +28,9 @@ git clone https://github.com/lin-liwei/CurrI2P.git
 cd CurrI2P
 ```
 
-#### step 3. Download data. We provide the inference data from the KITTI dataset (sequences 9-10) to help you quickly get started with evaluating CurrI2P (VP2P). The data tree should be arranged as:
+#### step 3. Download data. 
+
+We provide the inference data from the KITTI dataset (sequences 9-10) to help you quickly get started with evaluating CurrI2P (VP2P). The data tree should be arranged as:
 
 ```
 KITTI/
