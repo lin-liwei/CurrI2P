@@ -13,7 +13,7 @@ We implement our method on two baselines, and their environments are the same as
 
 The inference code was tested on:
 
-- Ubuntu 16.04 LTS, Python 3.7, Pytorch CUDA 9.2, GeForce RTX 2080Ti (pip, Conda)
+- Ubuntu 16.04 LTS, Python 3.7, Pytorch 1.7.1, CUDA 9.2, GeForce RTX 2080Ti (pip, Conda)
 
 ```
 conda create -n CurrI2P python=3.7
