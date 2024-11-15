@@ -33,7 +33,7 @@ pip install -r requirements.txt
 We provide the inference data from the KITTI dataset (sequences 9-10) in [here](https://drive.google.com/file/d/1xWy-f9N7P8BtIYcZ7E6fwgiYx8jhsch1/view?usp=drive_link) to help you quickly get started with evaluating CurrI2P (VP2P). The data tree should be arranged as:
 
 ```
-KITTI/
+kitti/
 ├── calib
     └── 09
     └── 10
